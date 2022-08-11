@@ -1,6 +1,6 @@
 /**
  * @file MatrixC.cpp
- * @author Miguel Mireles, Ricardo Israel, Julio Valencia
+ * @author Miguel Mireles
  * @version 0.1
  * @date 2021-10-14
  * 
